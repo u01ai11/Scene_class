@@ -1,0 +1,18 @@
+# Image set files and folders
+test_large/
+test_large.tar
+
+# Unused Networks
+
+Scripts/caffe-ocr/
+Scripts/CTPN/
+Scripts/fast-rcnn/
+Scripts/resnet101/
+Scripts/text-FRCN/
+
+
+# Unused files 
+Scripts/cfg.py
+Scripts/cfg.pyc
+
+
