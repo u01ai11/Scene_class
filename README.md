@@ -5,6 +5,8 @@ I made this as a work project to get some sensible images for a visual search-ty
 
 You can see how it works in the 'Scene_class.ipynb' notebook. All paths are absolute to my local machine at this point, and you will probably have to work to get all dependencies running - I used Ubuntu 16.04 as my OS. 
 
+[[https://github.com/u01ai11/Scene_class/blob/master/diagram.png|alt=overview]]
+
 # Requirements
 - OpenCV3 (and dependencies)
 - Python2.7 (I used Anaconda)
